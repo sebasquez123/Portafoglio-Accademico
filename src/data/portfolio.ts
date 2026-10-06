@@ -118,7 +118,7 @@ export const education: EducationItem[] = [
   {
     degree: "Junior Fullstack Developer",
     institution: "Universidad Tecnológica de Pereira, Colombia",
-    period: { es: "Mar 2023 — Jun 2024", en: "Mar 2023 — Jun 2024", it: "Mar 2023 — Giu 2024" },
+    period: { es: "Ene 2024 — Jun 2024", en: "Jan 2024 — Jun 2024", it: "Gen 2023 — Giu 2024" },
     courses: {
       es: "Programación Orientada a Objetos · Arquitecturas de Programación Web · Fundamentos de Vue.js, Django y Node.js.",
       en: "Object-Oriented Programming · Web Programming Architectures · Fundamentals of Vue.js, Django and Node.js.",
@@ -223,7 +223,7 @@ export const projects: Project[] = [
       en: "Independent applied research",
       it: "Ricerca applicata indipendente",
     },
-    period: { es: "Jun 2026 — Nov 2027", en: "Jun 2026 — Nov 2027", it: "Giu 2026 — Nov 2027" },
+    period: { es: "May 2026 — Nov 2027", en: "May 2026 — Nov 2027", it: "Mag 2026 — Nov 2027" },
     tags: ["LLM", "RAG", "MCP", "NestJS", "PostgreSQL"],
     media: media("projects/images/agentic"),
     source: [
@@ -317,7 +317,7 @@ export const experience: ExperienceItem[] = [
     website: "https://www.metgroupsas.com/",
     images: photos("jobs/images/metgroup"),
     place: "Pereira, Colombia",
-    period: { es: "Abr 2026 — Actualidad", en: "Apr 2026 — Present", it: "Apr 2026 — Presente" },
+    period: { es: "May 2026 — Actualidad", en: "May 2026 — Present", it: "Mag 2026 — Presente" },
     bullets: [
       {
         es: "Lideré la arquitectura y el desarrollo integral de una plataforma Agentic avanzada de uso interno y comercial llamada MetBot, integrando flujos y conceptos de inferencia enriquecida usando RAG, MCP y motores de inferencia on-premise (vLLM, Ollama, Nvidia) como iniciativa para automatizar y optimizar procesos.",
